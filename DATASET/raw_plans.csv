@@ -1,0 +1,6 @@
+plan_id,plan_name,price,billing_cycle,is_active
+free_m,Free,0,monthly,True
+pro_m,Pro,999,monthly,True
+pro_y,Pro,9999,yearly,True
+ent_m,Enterprise,4999,monthly,True
+ent_y,Enterprise,49999,yearly,True
